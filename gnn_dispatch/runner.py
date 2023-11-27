@@ -22,7 +22,7 @@ class Runner:
         self.env = env
         self.vali_data = vali_data
         self.device = configs.device
-        self.writer = SummaryWriter()
+        self.writer = SummaryWriter(logdir='runs/gnn_dispatch')
         self.gamma = configs.gamma
 
     def to_tensor(self, adj, fea, candidate, mask):
