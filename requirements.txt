@@ -1,0 +1,11 @@
+filelock
+torch
+scikit-learn
+numpy
+gym
+jssp-tool
+tensorboardX
+matplotlib
+pandas
+termcolor
+pyyaml

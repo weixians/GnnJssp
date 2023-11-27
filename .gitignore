@@ -1,0 +1,8 @@
+.idea
+build
+dist
+jssp_tool.egg-info
+__pycache__
+runs
+output
+.vscode
