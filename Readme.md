@@ -5,11 +5,7 @@
 - gnn_schedule: 复现了论文[《Learning to schedule job-shop problems: Representation and policy learning using graph neural network and reinforcement learning》](https://arxiv.org/abs/2106.01086)
 
 # 训练与验证
-## 验证数据
-完善中。。。
 
 ## 训练与验证过程
-完善中。。。
+![val.png](image%2Fval.png)
 
-## 测试结果对比
-完善中。。。
